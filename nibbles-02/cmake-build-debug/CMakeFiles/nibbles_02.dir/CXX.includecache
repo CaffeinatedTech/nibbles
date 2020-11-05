@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../headers/apple.hpp
+SFML/Graphics.hpp
+-
+
+../headers/engine.hpp
+snakesection.hpp
+../headers/snakesection.hpp
+apple.hpp
+../headers/apple.hpp
+SFML/Graphics.hpp
+-
+SFML/Graphics/RectangleShape.hpp
+-
+vector
+-
+deque
+-
+
+../headers/snakesection.hpp
+SFML/Graphics.hpp
+-
+
+/home/adam/CLionProjects/nibbles-02/src/update.cpp
+engine.hpp
+/home/adam/CLionProjects/nibbles-02/src/engine.hpp
+

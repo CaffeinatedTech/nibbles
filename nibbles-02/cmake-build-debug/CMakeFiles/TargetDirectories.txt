@@ -1,0 +1,3 @@
+/home/adam/CLionProjects/nibbles-02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/adam/CLionProjects/nibbles-02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adam/CLionProjects/nibbles-02/cmake-build-debug/CMakeFiles/nibbles_02.dir
