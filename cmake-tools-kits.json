@@ -1,0 +1,14 @@
+[{
+    "name": "Mingw64 GCC 7.3.0",
+    "compilers": {
+      "C": "C:\\mingw64\\bin\\gcc.exe",
+      "CXX": "C:\\mingw64\\bin\\g++.exe"
+    },
+    "preferredGenerator": {
+      "name": "MinGW Makefiles",
+      "platform": "x64"
+    },
+    "environmentVariables": {
+      "PATH": "C:/mingw64/bin/"
+    }
+}]
