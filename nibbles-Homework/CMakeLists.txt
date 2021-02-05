@@ -7,6 +7,7 @@ add_executable(nibbles src/main.cpp src/engine.cpp headers/engine.hpp src/draw.c
 
 include_directories(headers /usr/include c:/SFML/include)
 
+set(SFML_ROOT c:/SFML)
 set(CMAKE_MODULE_PATH "${CMAKE_CURRENT_LIST_DIR}/cmake_modules")
 find_package(SFML REQUIRED system window graphics)
 if (SFML_FOUND)
